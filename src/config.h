@@ -22,7 +22,7 @@ constexpr uint32_t GSM_REGISTER_POLL_MS = 10000;
 constexpr uint32_t GPS_DATA_TIMEOUT_MS = 5000;
 constexpr size_t GPS_RX_BUFFER_BYTES = 2048;
 constexpr size_t GPS_BYTES_PER_UPDATE = 512;
-constexpr char GUARDIAN_1[] = "+917397892966";
+constexpr char GUARDIAN_1[] = "+91XXXXXXXXXX";
 constexpr char GUARDIAN_2[] = "+91XXXXXXXXXX";
 
 constexpr uint8_t OLED_ADDRESS = 0x3C;
